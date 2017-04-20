@@ -2,9 +2,9 @@
   "title": "Cogs.Red Status",
   "name": "cogs.red",
   "link": "http://cogs.red",
-  "repo": "orels1/Red-Portal",
+  "repo": "orels1/Red-Portal-Status",
   "statusRepo": "orels1/status.cogs.red",
-  "services": ["API", "Website", "Parser"],
+  "services": ["API", "Website"],
   "statuses": {
     "operational": "#2ecc71",
     "degraded": "#f39c12",
