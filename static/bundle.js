@@ -3786,7 +3786,7 @@ module.exports = camelizeStyleName;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 var isTextNode = require('./isTextNode');
@@ -4041,7 +4041,7 @@ module.exports = createNodesFromMarkup;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 function makeEmptyFunction(arg) {
@@ -4482,7 +4482,7 @@ module.exports = isTextNode;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  * @typechecks static-only
  */
 
@@ -4570,7 +4570,7 @@ module.exports = performanceNow;
  * of patent rights can be found in the PATENTS file in the same directory.
  *
  * @typechecks
- * 
+ *
  */
 
 /*eslint-disable no-self-compare */
@@ -11814,7 +11814,7 @@ module.exports = CSSPropertyOperations;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -13553,7 +13553,7 @@ module.exports = EventPluginHub;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -14504,7 +14504,7 @@ module.exports = HTMLDOMPropertyConfig;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -14704,7 +14704,7 @@ module.exports = LinkedValueUtils;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -15332,7 +15332,7 @@ module.exports = ReactComponentBrowserEnvironment;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -19309,7 +19309,7 @@ module.exports = ReactDOMUnknownPropertyHook;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -19823,7 +19823,7 @@ module.exports = {
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -19874,7 +19874,7 @@ module.exports = ReactEmptyComponent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -20139,7 +20139,7 @@ module.exports = ReactEventListener;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -20231,7 +20231,7 @@ module.exports = ReactHostComponent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -20472,7 +20472,7 @@ module.exports = ReactInstanceMap;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -20498,7 +20498,7 @@ module.exports = { debugTool: debugTool };
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -21579,7 +21579,7 @@ module.exports = ReactMultiChild;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -21621,7 +21621,7 @@ module.exports = ReactNodeTypes;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -21717,7 +21717,7 @@ module.exports = ReactOwner;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -21743,7 +21743,7 @@ module.exports = ReactPropTypeLocationNames;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -22110,7 +22110,7 @@ module.exports = ReactReconciler;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -22292,7 +22292,7 @@ module.exports = ReactServerRenderingTransaction;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -23431,7 +23431,7 @@ module.exports = SelectEventPlugin;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -24506,7 +24506,7 @@ module.exports = SyntheticWheelEvent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -24760,7 +24760,7 @@ module.exports = ViewportMetrics;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -24819,7 +24819,7 @@ module.exports = accumulateInto;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -25251,7 +25251,7 @@ module.exports = findDOMNode;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -25328,7 +25328,7 @@ module.exports = flattenChildren;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -25619,7 +25619,7 @@ module.exports = getHostComponentFromComposite;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -26059,7 +26059,7 @@ module.exports = isEventSupported;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -26136,7 +26136,7 @@ module.exports = quoteAttributeValueForBrowser;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 'use strict';
 
@@ -28162,7 +28162,7 @@ module.exports = ReactComponent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -28497,7 +28497,7 @@ module.exports = ReactComponentTreeHook;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -29466,7 +29466,7 @@ arguments[4][134][0].apply(exports,arguments)
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -29584,7 +29584,7 @@ arguments[4][167][0].apply(exports,arguments)
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 'use strict';
@@ -31906,7 +31906,7 @@ exports._getPrivFilters = function () {
         AMP    = /&/g,
         NULL   = /\x00/g,
         SPECIAL_ATTR_VALUE_UNQUOTED_CHARS = /(?:^$|[\x00\x09-\x0D "'`=<>])/g,
-        SPECIAL_HTML_CHARS = /[&<>"'`]/g, 
+        SPECIAL_HTML_CHARS = /[&<>"'`]/g,
         SPECIAL_COMMENT_CHARS = /(?:\x00|^-*!?>|--!?>|--?!?$|\]>|\]$)/g;
 
     // CSS sensitive chars: ()"'/,!*@{}:;
@@ -31915,7 +31915,7 @@ exports._getPrivFilters = function () {
     var SENSITIVE_HTML_ENTITIES = /&(?:#([xX][0-9A-Fa-f]+|\d+);?|(Tab|NewLine|colon|semi|lpar|rpar|apos|sol|comma|excl|ast|midast|ensp|emsp|thinsp);|(nbsp|amp|AMP|lt|LT|gt|GT|quot|QUOT);?)/g,
         SENSITIVE_NAMED_REF_MAP = {Tab: '\t', NewLine: '\n', colon: ':', semi: ';', lpar: '(', rpar: ')', apos: '\'', sol: '/', comma: ',', excl: '!', ast: '*', midast: '*', ensp: '\u2002', emsp: '\u2003', thinsp: '\u2009', nbsp: '\xA0', amp: '&', lt: '<', gt: '>', quot: '"', QUOT: '"'};
 
-    // var CSS_VALID_VALUE = 
+    // var CSS_VALID_VALUE =
     //     /^(?:
     //     (?!-*expression)#?[-\w]+
     //     |[+-]?(?:\d+|\d*\.\d+)(?:em|ex|ch|rem|px|mm|cm|in|pt|pc|%|vh|vw|vmin|vmax)?
@@ -31949,7 +31949,7 @@ exports._getPrivFilters = function () {
         URI_PROTOCOL_WHITESPACES = /(?:^[\x00-\x20]+|[\t\n\r\x00]+)/g,
         URI_PROTOCOL_NAMED_REF_MAP = {Tab: '\t', NewLine: '\n'};
 
-    var x, 
+    var x,
         strReplace = function (s, regexp, callback) {
             return s === undefined ? 'undefined'
                     : s === null            ? 'null'
@@ -31977,7 +31977,7 @@ exports._getPrivFilters = function () {
     }
 
     function htmlDecode(s, namedRefMap, reNamedRef, skipReplacement) {
-        
+
         namedRefMap = namedRefMap || SENSITIVE_NAMED_REF_MAP;
         reNamedRef = reNamedRef || SENSITIVE_HTML_ENTITIES;
 
@@ -32079,15 +32079,15 @@ exports._getPrivFilters = function () {
                 !isFinite(num = Number(num)) || // `NaN`, `+Infinity`, or `-Infinity`
                 num <= 0 ||                     // not a valid Unicode code point
                 num > 0x10FFFF ||               // not a valid Unicode code point
-                // Math.floor(num) != num || 
+                // Math.floor(num) != num ||
 
                 (num >= 0x01 && num <= 0x08) ||
                 (num >= 0x0E && num <= 0x1F) ||
                 (num >= 0x7F && num <= 0x9F) ||
                 (num >= 0xFDD0 && num <= 0xFDEF) ||
-                
-                 num === 0x0B || 
-                (num & 0xFFFF) === 0xFFFF || 
+
+                 num === 0x0B ||
+                (num & 0xFFFF) === 0xFFFF ||
                 (num & 0xFFFF) === 0xFFFE ? '\uFFFD' : fromCodePoint(num);
         },
         d: htmlDecode,
@@ -32168,30 +32168,30 @@ exports._getPrivFilters = function () {
         // FOR DETAILS, refer to inUnQuotedAttr()
         // PART A.
         // if s contains any state breaking chars (\t, \n, \v, \f, \r, space, and >),
-        // they are escaped and encoded into their equivalent HTML entity representations. 
+        // they are escaped and encoded into their equivalent HTML entity representations.
         // Reference: http://shazzer.co.uk/database/All/Characters-which-break-attributes-without-quotes
         // Reference: https://html.spec.whatwg.org/multipage/syntax.html#attribute-value-(unquoted)-state
         //
-        // PART B. 
-        // if s starts with ', " or `, encode it resp. as &#39;, &quot;, or &#96; to 
+        // PART B.
+        // if s starts with ', " or `, encode it resp. as &#39;, &quot;, or &#96; to
         // enforce the attr value (unquoted) state
         // Reference: https://html.spec.whatwg.org/multipage/syntax.html#before-attribute-value-state
         // Reference: http://shazzer.co.uk/vector/Characters-allowed-attribute-quote
-        // 
+        //
         // PART C.
-        // Inject a \uFFFD character if an empty or all null string is encountered in 
+        // Inject a \uFFFD character if an empty or all null string is encountered in
         // unquoted attribute value state.
-        // 
-        // Rationale 1: our belief is that developers wouldn't expect an 
-        //   empty string would result in ' name="passwd"' rendered as 
+        //
+        // Rationale 1: our belief is that developers wouldn't expect an
+        //   empty string would result in ' name="passwd"' rendered as
         //   attribute value, even though this is how HTML5 is specified.
-        // Rationale 2: an empty or all null string (for IE) can 
+        // Rationale 2: an empty or all null string (for IE) can
         //   effectively alter its immediate subsequent state, we choose
-        //   \uFFFD to end the unquoted attr 
+        //   \uFFFD to end the unquoted attr
         //   state, which therefore will not mess up later contexts.
         // Rationale 3: Since IE 6, it is verified that NULL chars are stripped.
         // Reference: https://html.spec.whatwg.org/multipage/syntax.html#attribute-value-(unquoted)-state
-        // 
+        //
         // Example:
         // <input value={{{yavu s}}} name="passwd"/>
         yavu: function (s) {
@@ -32243,11 +32243,11 @@ exports._getPrivFilters = function () {
         //     [ NUMBER S* | PERCENTAGE S* | LENGTH S* | EMS S* | EXS S* | ANGLE S* |
         //     TIME S* | FREQ S* ]
         //   | STRING S* | IDENT S* | URI S* | hexcolor | function
-        // 
+        //
         // Reference:
-        // * http://www.w3.org/TR/CSS21/grammar.html 
+        // * http://www.w3.org/TR/CSS21/grammar.html
         // * http://www.w3.org/TR/css-syntax-3/
-        // 
+        //
         // NOTE: delimiter in CSS -  \  _  :  ;  (  )  "  '  /  ,  %  #  !  *  @  .  {  }
         //                        2d 5c 5f 3a 3b 28 29 22 27 2f 2c 25 23 21 2a 40 2e 7b 7d
 
@@ -32270,7 +32270,7 @@ exports._getPrivFilters = function () {
         // unquoted_url = ([!#$%&*-~]|\\{h}{1,6}(\r\n|[ \t\r\n\f])?|\\[^\r\n\f0-9a-f])* (CSS 2.1 definition)
         // unquoted_url = ([^"'()\\ \t\n\r\f\v\u0000\u0008\u000b\u000e-\u001f\u007f]|\\{h}{1,6}(\r\n|[ \t\r\n\f])?|\\[^\r\n\f0-9a-f])* (CSS 3.0 definition)
         // The state machine in CSS 3.0 is more well defined - http://www.w3.org/TR/css-syntax-3/#consume-a-url-token0
-        // CSS_UNQUOTED_URL = /['\(\)]/g; // " \ treated by encodeURI()   
+        // CSS_UNQUOTED_URL = /['\(\)]/g; // " \ treated by encodeURI()
         yceuu: function(s) {
             return cssUrl(s).replace(CSS_UNQUOTED_URL, function (chr) {
                 return  chr === '\''        ? '\\27 ' :
@@ -32280,12 +32280,12 @@ exports._getPrivFilters = function () {
         },
 
         // for url("{{{yceud url}}}
-        yceud: function(s) { 
+        yceud: function(s) {
             return cssUrl(s);
         },
 
         // for url('{{{yceus url}}}
-        yceus: function(s) { 
+        yceus: function(s) {
             return cssUrl(s).replace(SQUOT, '\\27 ');
         }
     });
@@ -32299,16 +32299,16 @@ var privFilters = exports._privFilters = exports._getPrivFilters();
 /* chaining filters */
 
 // uriInAttr and literally uriPathInAttr
-// yubl is always used 
+// yubl is always used
 // Rationale: given pattern like this: <a href="{{{uriPathInDoubleQuotedAttr s}}}">
 //            developer may expect s is always prefixed with ? or /, but an attacker can abuse it with 'javascript:alert(1)'
 function uriInAttr (s, yav, yu) {
     return privFilters.yubl(yav((yu || privFilters.yufull)(s)));
 }
 
-/** 
+/**
 * Yahoo Secure XSS Filters - just sufficient output filtering to prevent XSS!
-* @module xss-filters 
+* @module xss-filters
 */
 
 /**
@@ -32413,11 +32413,11 @@ exports.inDoubleQuotedAttr = privFilters.yavd;
 * <p class="warning">Warning: If you're working on URI/components, use the more specific uri___InUnQuotedAttr filter </p>
 * <p>Regarding \uFFFD injection, given <a id={{{id}}} name="passwd">,<br/>
 *        Rationale 1: our belief is that developers wouldn't expect when id equals an
-*          empty string would result in ' name="passwd"' rendered as 
+*          empty string would result in ' name="passwd"' rendered as
 *          attribute value, even though this is how HTML5 is specified.<br/>
-*        Rationale 2: an empty or all null string (for IE) can 
+*        Rationale 2: an empty or all null string (for IE) can
 *          effectively alter its immediate subsequent state, we choose
-*          \uFFFD to end the unquoted attr 
+*          \uFFFD to end the unquoted attr
 *          state, which therefore will not mess up later contexts.<br/>
 *        Rationale 3: Since IE 6, it is verified that NULL chars are stripped.<br/>
 *        Reference: https://html.spec.whatwg.org/multipage/syntax.html#attribute-value-(unquoted)-state</p>
@@ -32457,7 +32457,7 @@ exports.inUnQuotedAttr = privFilters.yavu;
 * @example
 * // output context to be applied by this filter.
 * <a href='{{{uriInSingleQuotedAttr full_uri}}}'>link</a>
-* 
+*
 */
 exports.uriInSingleQuotedAttr = function (s) {
     return uriInAttr(s, privFilters.yavs);
@@ -32484,7 +32484,7 @@ exports.uriInSingleQuotedAttr = function (s) {
 * @example
 * // output context to be applied by this filter.
 * <a href="{{{uriInDoubleQuotedAttr full_uri}}}">link</a>
-* 
+*
 */
 exports.uriInDoubleQuotedAttr = function (s) {
     return uriInAttr(s, privFilters.yavd);
@@ -32512,7 +32512,7 @@ exports.uriInDoubleQuotedAttr = function (s) {
 * @example
 * // output context to be applied by this filter.
 * <a href={{{uriInUnQuotedAttr full_uri}}}>link</a>
-* 
+*
 */
 exports.uriInUnQuotedAttr = function (s) {
     return uriInAttr(s, privFilters.yavu);
@@ -32539,7 +32539,7 @@ exports.uriInUnQuotedAttr = function (s) {
 * @example
 * // output context to be applied by this filter.
 * <a href="/somewhere">{{{uriInHTMLData full_uri}}}</a>
-* 
+*
 */
 exports.uriInHTMLData = privFilters.yufull;
 
@@ -32565,7 +32565,7 @@ exports.uriInHTMLData = privFilters.yufull;
 * @example
 * // output context to be applied by this filter.
 * <!-- {{{uriInHTMLComment full_uri}}} -->
-* 
+*
 */
 exports.uriInHTMLComment = function (s) {
     return privFilters.yc(privFilters.yufull(s));
@@ -32594,7 +32594,7 @@ exports.uriInHTMLComment = function (s) {
 * // output context to be applied by this filter.
 * <a href='http://example.com/{{{uriPathInSingleQuotedAttr uri_path}}}'>link</a>
 * <a href='http://example.com/?{{{uriQueryInSingleQuotedAttr uri_query}}}'>link</a>
-* 
+*
 */
 exports.uriPathInSingleQuotedAttr = function (s) {
     return uriInAttr(s, privFilters.yavs, privFilters.yu);
@@ -32620,7 +32620,7 @@ exports.uriPathInSingleQuotedAttr = function (s) {
 * // output context to be applied by this filter.
 * <a href="http://example.com/{{{uriPathInDoubleQuotedAttr uri_path}}}">link</a>
 * <a href="http://example.com/?{{{uriQueryInDoubleQuotedAttr uri_query}}}">link</a>
-* 
+*
 */
 exports.uriPathInDoubleQuotedAttr = function (s) {
     return uriInAttr(s, privFilters.yavd, privFilters.yu);
@@ -32647,7 +32647,7 @@ exports.uriPathInDoubleQuotedAttr = function (s) {
 * // output context to be applied by this filter.
 * <a href=http://example.com/{{{uriPathInUnQuotedAttr uri_path}}}>link</a>
 * <a href=http://example.com/?{{{uriQueryInUnQuotedAttr uri_query}}}>link</a>
-* 
+*
 */
 exports.uriPathInUnQuotedAttr = function (s) {
     return uriInAttr(s, privFilters.yavu, privFilters.yu);
@@ -32674,7 +32674,7 @@ exports.uriPathInUnQuotedAttr = function (s) {
 * // output context to be applied by this filter.
 * <a href="http://example.com/">http://example.com/{{{uriPathInHTMLData uri_path}}}</a>
 * <a href="http://example.com/">http://example.com/?{{{uriQueryInHTMLData uri_query}}}</a>
-* 
+*
 */
 exports.uriPathInHTMLData = privFilters.yu;
 
@@ -32708,7 +32708,7 @@ exports.uriPathInHTMLComment = function (s) {
 /**
 * @function module:xss-filters#uriQueryInSingleQuotedAttr
 * @description This is an alias of {@link module:xss-filters#uriPathInSingleQuotedAttr}
-* 
+*
 * @alias module:xss-filters#uriPathInSingleQuotedAttr
 */
 exports.uriQueryInSingleQuotedAttr = exports.uriPathInSingleQuotedAttr;
@@ -32716,7 +32716,7 @@ exports.uriQueryInSingleQuotedAttr = exports.uriPathInSingleQuotedAttr;
 /**
 * @function module:xss-filters#uriQueryInDoubleQuotedAttr
 * @description This is an alias of {@link module:xss-filters#uriPathInDoubleQuotedAttr}
-* 
+*
 * @alias module:xss-filters#uriPathInDoubleQuotedAttr
 */
 exports.uriQueryInDoubleQuotedAttr = exports.uriPathInDoubleQuotedAttr;
@@ -32724,7 +32724,7 @@ exports.uriQueryInDoubleQuotedAttr = exports.uriPathInDoubleQuotedAttr;
 /**
 * @function module:xss-filters#uriQueryInUnQuotedAttr
 * @description This is an alias of {@link module:xss-filters#uriPathInUnQuotedAttr}
-* 
+*
 * @alias module:xss-filters#uriPathInUnQuotedAttr
 */
 exports.uriQueryInUnQuotedAttr = exports.uriPathInUnQuotedAttr;
@@ -32732,7 +32732,7 @@ exports.uriQueryInUnQuotedAttr = exports.uriPathInUnQuotedAttr;
 /**
 * @function module:xss-filters#uriQueryInHTMLData
 * @description This is an alias of {@link module:xss-filters#uriPathInHTMLData}
-* 
+*
 * @alias module:xss-filters#uriPathInHTMLData
 */
 exports.uriQueryInHTMLData = exports.uriPathInHTMLData;
@@ -32740,7 +32740,7 @@ exports.uriQueryInHTMLData = exports.uriPathInHTMLData;
 /**
 * @function module:xss-filters#uriQueryInHTMLComment
 * @description This is an alias of {@link module:xss-filters#uriPathInHTMLComment}
-* 
+*
 * @alias module:xss-filters#uriPathInHTMLComment
 */
 exports.uriQueryInHTMLComment = exports.uriPathInHTMLComment;
@@ -32767,7 +32767,7 @@ exports.uriQueryInHTMLComment = exports.uriPathInHTMLComment;
 * @example
 * // output context to be applied by this filter.
 * <a href='http://example.com/?q={{{uriComponentInSingleQuotedAttr uri_component}}}'>link</a>
-* 
+*
 */
 exports.uriComponentInSingleQuotedAttr = function (s) {
     return privFilters.yavs(privFilters.yuc(s));
@@ -32793,7 +32793,7 @@ exports.uriComponentInSingleQuotedAttr = function (s) {
 * @example
 * // output context to be applied by this filter.
 * <a href="http://example.com/?q={{{uriComponentInDoubleQuotedAttr uri_component}}}">link</a>
-* 
+*
 */
 exports.uriComponentInDoubleQuotedAttr = function (s) {
     return privFilters.yavd(privFilters.yuc(s));
@@ -32820,7 +32820,7 @@ exports.uriComponentInDoubleQuotedAttr = function (s) {
 * @example
 * // output context to be applied by this filter.
 * <a href=http://example.com/?q={{{uriComponentInUnQuotedAttr uri_component}}}>link</a>
-* 
+*
 */
 exports.uriComponentInUnQuotedAttr = function (s) {
     return privFilters.yavu(privFilters.yuc(s));
@@ -32847,7 +32847,7 @@ exports.uriComponentInUnQuotedAttr = function (s) {
 * // output context to be applied by this filter.
 * <a href="http://example.com/">http://example.com/?q={{{uriComponentInHTMLData uri_component}}}</a>
 * <a href="http://example.com/">http://example.com/#{{{uriComponentInHTMLData uri_fragment}}}</a>
-* 
+*
 */
 exports.uriComponentInHTMLData = privFilters.yuc;
 
@@ -32879,7 +32879,7 @@ exports.uriComponentInHTMLComment = function (s) {
 
 
 // uriFragmentInSingleQuotedAttr
-// added yubl on top of uriComponentInAttr 
+// added yubl on top of uriComponentInAttr
 // Rationale: given pattern like this: <a href='{{{uriFragmentInSingleQuotedAttr s}}}'>
 //            developer may expect s is always prefixed with #, but an attacker can abuse it with 'javascript:alert(1)'
 
@@ -32903,14 +32903,14 @@ exports.uriComponentInHTMLComment = function (s) {
 * @example
 * // output context to be applied by this filter.
 * <a href='http://example.com/#{{{uriFragmentInSingleQuotedAttr uri_fragment}}}'>link</a>
-* 
+*
 */
 exports.uriFragmentInSingleQuotedAttr = function (s) {
     return privFilters.yubl(privFilters.yavs(privFilters.yuc(s)));
 };
 
 // uriFragmentInDoubleQuotedAttr
-// added yubl on top of uriComponentInAttr 
+// added yubl on top of uriComponentInAttr
 // Rationale: given pattern like this: <a href="{{{uriFragmentInDoubleQuotedAttr s}}}">
 //            developer may expect s is always prefixed with #, but an attacker can abuse it with 'javascript:alert(1)'
 
@@ -32934,14 +32934,14 @@ exports.uriFragmentInSingleQuotedAttr = function (s) {
 * @example
 * // output context to be applied by this filter.
 * <a href="http://example.com/#{{{uriFragmentInDoubleQuotedAttr uri_fragment}}}">link</a>
-* 
+*
 */
 exports.uriFragmentInDoubleQuotedAttr = function (s) {
     return privFilters.yubl(privFilters.yavd(privFilters.yuc(s)));
 };
 
 // uriFragmentInUnQuotedAttr
-// added yubl on top of uriComponentInAttr 
+// added yubl on top of uriComponentInAttr
 // Rationale: given pattern like this: <a href={{{uriFragmentInUnQuotedAttr s}}}>
 //            developer may expect s is always prefixed with #, but an attacker can abuse it with 'javascript:alert(1)'
 
@@ -32964,7 +32964,7 @@ exports.uriFragmentInDoubleQuotedAttr = function (s) {
 * @example
 * // output context to be applied by this filter.
 * <a href=http://example.com/#{{{uriFragmentInUnQuotedAttr uri_fragment}}}>link</a>
-* 
+*
 */
 exports.uriFragmentInUnQuotedAttr = function (s) {
     return privFilters.yubl(privFilters.yavu(privFilters.yuc(s)));
@@ -32974,7 +32974,7 @@ exports.uriFragmentInUnQuotedAttr = function (s) {
 /**
 * @function module:xss-filters#uriFragmentInHTMLData
 * @description This is an alias of {@link module:xss-filters#uriComponentInHTMLData}
-* 
+*
 * @alias module:xss-filters#uriComponentInHTMLData
 */
 exports.uriFragmentInHTMLData = exports.uriComponentInHTMLData;
@@ -32982,7 +32982,7 @@ exports.uriFragmentInHTMLData = exports.uriComponentInHTMLData;
 /**
 * @function module:xss-filters#uriFragmentInHTMLComment
 * @description This is an alias of {@link module:xss-filters#uriComponentInHTMLComment}
-* 
+*
 * @alias module:xss-filters#uriComponentInHTMLComment
 */
 exports.uriFragmentInHTMLComment = exports.uriComponentInHTMLComment;
@@ -33119,12 +33119,7 @@ var Commits = function (_React$Component) {
       // check if it's time to update
       if (!commitsUpdatedAt || (0, _moment2.default)().subtract(5, 'minutes').format('x') - parseInt(commitsUpdatedAt, 10) > 0) {
         // make an API call if it is
-        fetch('https://api.github.com/repos/' + repo + '/commits', {
-          headers: new Headers({
-            'Accept': 'application/vnd.github.v3+json',
-            'User-Agent': 'Red-Portal-Status'
-          })
-        }).then(function (response) {
+        fetch('https://api.github.com/repos/' + repo + '/commits').then(function (response) {
           return response.json();
         }).then(function (json) {
           // cache all the data in localStorage
@@ -33445,14 +33440,13 @@ var Issues = function (_React$Component) {
       // check if it's time to update
       if (!issuesUpdatedAt || (0, _moment2.default)().subtract(1, 'minutes').format('x') - parseInt(issuesUpdatedAt, 10) > 0) {
         // make an API call if it is
-        fetch('https://api.github.com/repos/' + statusRepo + '/issues?state=all', {
-          headers: new Headers({
-            'Accept': 'application/vnd.github.v3+json',
-            'User-Agent': 'Red-Portal-Status'
-          })
-        }).then(function (response) {
+        fetch('https://api.github.com/repos/' + statusRepo + '/issues?state=all').then(function (response) {
           return response.json();
         }).then(function (json) {
+          // remove pull requests
+          json = (0, _underscore.filter)(json, function (issue) {
+            return !Object.keys(issue).includes('pull_request');
+          });
           // cache all the data in localStorage
           localStorage.setItem('issuesUpdatedAt', (0, _moment2.default)().format('x'));
           localStorage.setItem('issues', JSON.stringify({ 'issues': json }));
@@ -33662,7 +33656,7 @@ var Issues = function (_React$Component) {
         return _react2.default.createElement(
           'div',
           { key: 'issue-' + index, className: 'issue d-flex' },
-          _this4.props.services.length > 0 && _this4.checkResolved(issue) && _react2.default.createElement(
+          _this4.state.issues.length > 0 && _this4.props.services.length > 0 && _this4.checkResolved(issue) && _react2.default.createElement(
             'div',
             {
               className: 'issue-badges d-flex flex-column w-100 justify-content-center align-items-center',
@@ -33678,7 +33672,7 @@ var Issues = function (_React$Component) {
               { className: 'issue-date' },
               (0, _moment2.default)(issue.created_at).from((0, _moment2.default)())
             )
-          ) || _react2.default.createElement(
+          ) || _this4.state.issues.length > 0 && labelsSeverity.length > 0 && _react2.default.createElement(
             'div',
             {
               className: 'issue-badges d-flex flex-column w-100 justify-content-center align-items-center',
@@ -33711,7 +33705,7 @@ var Issues = function (_React$Component) {
                 { className: 'issue-message' },
                 _react2.default.createElement(_reactMarkdown2.default, { source: issue.body })
               ),
-              _react2.default.createElement(
+              labelsServices && labelsServices.length > 0 && _react2.default.createElement(
                 'div',
                 { className: 'issue-affected' },
                 'Affected systems: ',
@@ -33743,8 +33737,8 @@ var Issues = function (_React$Component) {
         ),
         _react2.default.createElement(
           'div',
-          { className: 'issues-list' },
-          issues.length > 0 && issues || _react2.default.createElement('i', { className: 'fa fa-cog fa-spin fa-3x fa-inverse' })
+          { className: 'issues-list w-100' },
+          issues.length > 0 && issues
         )
       );
     }
@@ -33960,7 +33954,7 @@ var Statuspage = function (_React$Component) {
           }),
           _react2.default.createElement(
             'div',
-            { className: 'main-block d-flex flex-column' },
+            { className: 'main-block w-100 d-flex flex-column' },
             _react2.default.createElement(_Commits2.default, { repo: this.state.repo, commits: this.state.commits }),
             _react2.default.createElement(_Issues2.default, {
               onParse: this.handleIssuesParse.bind(this),
