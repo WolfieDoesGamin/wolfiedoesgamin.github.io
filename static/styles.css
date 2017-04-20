@@ -6698,12 +6698,11 @@ body {
   z-index: 10;
   top: 30px;
   padding: 20px;
-  width: 80%;
   border-radius: 5px;
   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
   background: #FCFCFC; }
   .services .service {
-    min-width: 150px;
+    min-width: 200px;
     line-height: 30px;
     text-align: center;
     text-transform: uppercase; }
@@ -6729,9 +6728,10 @@ body {
   font-weight: 400;
   font-size: 20px; }
   .info-spacer div {
-    margin-bottom: 50px; }
+    margin-bottom: 40px; }
 
 .main-block {
+  margin-top: 15px;
   min-height: 300px;
   padding: 30px;
   background: #F7F7F7; }
